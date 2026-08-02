@@ -5,11 +5,20 @@
 This project demonstrates the practical implementation of an information security risk assessment process in accordance with ISO/IEC 27001:2022. It was developed as a portfolio project to demonstrate practical knowledge of information security risk management, risk assessment methodologies, and ISMS documentation.
 
 The project follows a structured approach to identifying information assets, assessing information security risks, selecting appropriate risk treatment measures, and documenting applicable security controls.
----
-Screenshot 2026-08-02 234553.png Risk Assessment Risk Analysis
-Screenshot 2026-08-02 234553.png Risk Treatment Plan
-Screenshot 2026-08-02 234553.png Statement of Applicability
 
+## Project Preview
+
+### Risk Assessment
+
+![Risk Assessment](screenshots/risk_assessment.png)
+
+### Risk Treatment Plan
+
+![Risk Treatment Plan](screenshots/risk_treatment_plan.png)
+
+### Statement of Applicability (SoA)
+
+![Statement of Applicability](screenshots/statement_of_applicability.png)
 
 ## Project Objectives
 

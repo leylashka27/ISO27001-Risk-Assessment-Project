@@ -22,7 +22,7 @@ The project follows a structured approach to identifying information assets, ass
 
 ## Project Objectives
 
--The objective of this project is to demonstrate the practical application of information security risk assessment principles based on ISO/IEC 27001:2022.
+The objective of this project is to demonstrate the practical application of information security risk assessment principles based on ISO/IEC 27001:2022.
 
 The project aims to:
 
@@ -61,13 +61,7 @@ The project consists of the following documentation.
 - **07_ISMS_Scope.docx** – Scope and boundaries of the Information Security Management System.
 - **08_Risk_Assessment_Methodology.docx** – Methodology used to identify, analyze, evaluate, and treat information security risks.
 - **09_Risk_Assessment_Report.docx** – Summary of the completed risk assessment and risk treatment activities.
-## Project Status
 
- Under Development
-
-The project is currently being developed and will be updated with additional documentation, templates, and risk assessment deliverables based on ISO/IEC 27001 best practices.
-
----
 # Skills Demonstrated
 
 This project demonstrates practical knowledge and hands-on experience in the following areas:
@@ -94,8 +88,6 @@ This project demonstrates the practical implementation of an information securit
 
 
 ## Disclaimer
-This project was developed for educational and portfolio purposes only.
-
 The organization, information assets, business processes, and risk scenarios presented in this repository are entirely fictional and were created solely to demonstrate the practical application of information security risk assessment principles in accordance with ISO/IEC 27001:2022.
 
 This project does not represent the information security practices or documentation of any real organization.
@@ -107,5 +99,3 @@ This project does not represent the information security practices or documentat
 Master's Student in Information Security
 
 This project was developed as part of my cybersecurity portfolio to demonstrate practical skills in ISO/IEC 27001:2022 information security risk assessment and ISMS documentation
-
-This project was developed for educational and portfolio purposes only. The organization, assets, and scenarios presented in this repository are fictional and created solely to demonstrate the ISO/IEC 27001 risk assessment process.

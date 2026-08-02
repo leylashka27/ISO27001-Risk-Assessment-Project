@@ -7,6 +7,7 @@ This project demonstrates the practical implementation of an information securit
 The project follows a structured approach to identifying information assets, assessing information security risks, selecting appropriate risk treatment measures, and documenting applicable security controls.
 ---
 
+
 ## Project Objectives
 
 -The objective of this project is to demonstrate the practical application of information security risk assessment principles based on ISO/IEC 27001:2022.

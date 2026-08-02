@@ -6,6 +6,9 @@ This project demonstrates the practical implementation of an information securit
 
 The project follows a structured approach to identifying information assets, assessing information security risks, selecting appropriate risk treatment measures, and documenting applicable security controls.
 ---
+Screenshot 2026-08-02 234553.png Risk Assessment Risk Analysis
+Screenshot 2026-08-02 234553.png Risk Treatment Plan
+Screenshot 2026-08-02 234553.png Statement of Applicability
 
 
 ## Project Objectives

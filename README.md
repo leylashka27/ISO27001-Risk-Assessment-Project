@@ -39,7 +39,6 @@ Prepare supporting ISMS documentation.
 
 -ISO/IEC 27001:2022 – Information Security Management Systems (ISMS)
 ISO/IEC 27005 – Information Security Risk Management
-ISO 31000 – Risk Management Guidelines
 CIS Critical Security Controls v8 (Reference)
 ---
 
